@@ -8,13 +8,14 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"mongodb": "^2.2.5",
-		"mongoose": "^4.5.7",
+		"mongodb": "^3.2.2",
+		"mongoose": "^5.4.19",
 		"cors": "^2.8.1",
-		"body-parser": "^1.15.2"
+		"body-parser": "^1.15.2",
+    "url-exists":"^1.0.3"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "10.15.0"
 	},
 	"repository": {
 		"type": "git",
